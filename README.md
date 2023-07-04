@@ -1,7 +1,7 @@
 # WEB-IDE
 
 ![image](https://github.com/sabyasachiroy1/WEB-IDE/assets/110336884/e602555c-c15c-4717-9248-ff2d6c31a7e0)
-![image](https://github.com/sabyasachiroy1/WEB-IDE/assets/110336884/8fdcf3a6-375c-44c3-8606-b1ffab440aac)
+![image](https://github.com/sabyasachiroy1/WEB-IDE/assets/110336884/4d8c8069-88c7-4686-88b6-7b5983c8d723)
 
 
 
